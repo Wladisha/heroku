@@ -1,11 +1,6 @@
-gem 'net/http'
+source 'https://rubygems.org'
+
 gem 'json'
 gem 'mail'
-gem 'rubygems'
 gem 'sqlite3'
 gem 'googlecharts'
-gem 'bundler'
-gem 'json' 
-gem 'sendgrid'
-gem 'sendgrid-ruby' 
-gem 'rubygems'
